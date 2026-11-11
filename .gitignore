@@ -1,0 +1,10 @@
+data/
+*.csv
+*.xlsx
+*.dta
+.ipynb_checkpoints/
+catboost_info/
+__pycache__/
+.env
+.env.*
+.DS_Store
