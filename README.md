@@ -78,6 +78,6 @@ The data are not bundled. The dependency list is not a recovered version lockfil
 
 ## Portfolio scope
 
-This is a private review draft documenting completed coursework. The original modeling code has not been redesigned. Notebook outputs, execution counts, and incidental metadata were cleared; instructional template prose was removed while code cells were preserved.
+This repository documents completed coursework. The original modeling code has not been redesigned. Notebook outputs, execution counts, and incidental metadata were cleared; instructional template prose was removed while code cells were preserved.
 
 The retrospective documentation was prepared with AI assistance. Original assistance and collaboration boundaries still need a fuller contribution review before making stronger claims of independent implementation or adapting this project for a resume.
