@@ -35,4 +35,4 @@ I confirmed a 9th-of-156 competition finish. The Kaggle URLs could not be inspec
 
 No raw listing data, hosts' records, competition submission CSVs, credentials, or course download access information are included. Users must obtain authorized data from the respective competition.
 
-No license is added for the course materials or datasets. Keep this draft private until reviewed and approved for publication.
+No license is added for the course materials or datasets. This repository was published following my review and approval.
